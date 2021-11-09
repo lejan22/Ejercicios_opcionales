@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{975398B4-4C46-3A9C-2F6E-C0B14816CC26}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/ParImpar.cs">
+    <Files>
+      <File FileName="Assets/scripts/ParImpar.cs" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1716b58b-752c-4c72-8548-3399331a6b53" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
